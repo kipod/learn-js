@@ -32,3 +32,6 @@ let year = document.querySelector('.year-value'),
     month = document.querySelector('.month-value'),
     day = document.querySelector('.day-value');
 
+let title = document.querySelector('.title');
+title.style.fontSize = '64px';
+title.style.color = 'gray';
